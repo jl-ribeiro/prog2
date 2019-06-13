@@ -1,0 +1,15 @@
+//pt-br
+Escreva um programa em C que leia do usuário coordenadas na forma (x, y), onde x e y são números
+inteiros. A seguir, seu programa deve imprimir as coordenadas, uma abaixo da outra.
+
+Por exemplo, suponha que o usuário digite "(3, 45)" (sem as aspas). O programa deverá imprimir:
+3
+45
+
+//en-us
+Write a C program to read from user coordinates on model (x, y), where x and y are integers.
+Below, your program have to print the coordinates, first above second.
+
+For example, suppose the user types "(3, 45)" (without the quotes). The program should print:
+3
+45
