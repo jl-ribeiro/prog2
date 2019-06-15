@@ -4,4 +4,4 @@ positivos. Se não forem, o programa deverá exibir uma mensagem de erro. Se for
 real e inteira de A por B.
 
 //en-us
-Write a C program to read two positive integer numbers, A and B. Your program have to verify if both numbers are really positives.
+Write a C program to read two positive integer numbers, A and B. Your program have to verify if both numbers are really positives. If doesn't, the program must have to show an error message. If it is, your program have to show the real division and integer division from A to B.
